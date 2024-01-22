@@ -1,0 +1,26 @@
+/* layout.css */
+
+body {
+    background: linear-gradient(45deg, #93a5cf, #e4efe9, #f0f5f5);
+}
+
+.stApp {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.stTitle {
+    font-size: 3em;
+    color: #5e5e5e;
+    text-shadow: 2px 2px 2px #c0c0c0;
+}
+
+.stButton {
+    color: #a7ccd2;
+    font-size: 1.2em;
+    border-radius: 8px;
+}
+
+.stButton:hover {
+    background-color: #c0e4ec;
+}
